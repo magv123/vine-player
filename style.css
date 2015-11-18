@@ -4,13 +4,13 @@ html{
 }
 .video-container{
   padding: 6px;
-  backgroun-color:#fff;
+  background-color: #fff;
   border-radius: 5px;
-  overflow hidden;
+  overflow: hidden;
   display:inline-block;
 }
 video{
   height: 300px;
-  border-radius:5 px ;
-  
+  border-radius:5px ;
+
 }
